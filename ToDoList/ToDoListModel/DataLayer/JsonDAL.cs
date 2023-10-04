@@ -20,7 +20,7 @@ namespace ToDoListModel.DataLayer
         /// <summary>
         /// Name of the json file
         /// </summary>
-        readonly string tasksFileName = "todotasks.json";
+        readonly string tasksFileName = ".\\.\todotasks.json";
 
         /// <summary>
         /// Constructor
